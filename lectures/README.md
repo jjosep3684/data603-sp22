@@ -14,4 +14,4 @@
 | 12 | 2022-04-21 | [Graph Processing](https://umbc.webex.com/umbc/ldr.php?RCID=1e0b4c3c435e0b03f7e0be76a8916efb) |
 | 13 | 2022-04-28 | Monitoring, Debugging, Performance Tuning (class canceled, no recording) |
 | 14 | 2022-05-05 | [Presentations pt 1](https://umbc.webex.com/umbc/ldr.php?RCID=bd7b0fe930f1d4e1862a7b22b68e7155) |
-| 15 | 2022-05-12 | Presentations pt 2 |
+| 15 | 2022-05-12 | [Presentations pt 2](https://umbc.webex.com/umbc/ldr.php?RCID=0d113521354f57590dfaf39d5f9c8421) |
